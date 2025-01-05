@@ -1,0 +1,11 @@
+@article{REPO327,
+    author = "Liao, Jie and Zhou, Wei and Luo, Fengji and Wen, Junhao and Gao, Min and Li, Xiuhua and Zeng, Jun",
+    doi = "https://doi.org/10.1016/j.ins.2022.01.001",
+    issn = "0020-0255",
+    journal = "Information Sciences",
+    pages = "595-607",
+    title = "{SocialLGN: Light graph convolution network for social recommendation}",
+    url = "https://www.sciencedirect.com/science/article/pii/S0020025522000019",
+    volume = "589",
+    year = "2022"
+}
